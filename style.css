@@ -1,0 +1,111 @@
+body {
+	background-color: #f6f6f6;
+}
+#bigbox {
+	height: 400px;
+	width: 400px;
+	background: #fff4db;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 10px 15px;
+
+}
+#toprow{
+	height: 290px;
+	width: 400px;
+	
+}
+#bigredbox{
+	height: 290px;
+	width: 290px;
+	float: right;
+}
+.red {
+	background-color: red;
+}
+.blue{
+	background-color: blue;
+}
+.yellow{
+	background-color: yellow;
+}
+.black{
+	background-color: black;
+}
+.right{
+	float: right;
+}
+#topdivider{
+    background-color: black;
+    height: 290px;
+    width: 10px;
+}
+#topleftcolumn{
+	float: left;
+  width: 100px;
+  height: 290px;
+}
+.mediumbox{
+	width: 110px;
+	height: 145px;
+}
+#divider2{
+float: left;
+background-color: black;
+    height: 10px;
+    width: 110px;
+}
+#bottow{
+	float: right;
+	height: 100px;
+	width: 400px;
+}
+#square{
+	float: left;
+    height: 100px;
+    width: 120px;
+    
+}
+.line{
+	float: right;
+	background-color: black;
+	width: 10px; 
+	height: 100px;
+}
+#middle{
+
+	background-color: black;
+	width: 400px; 
+	height: 10px;
+}
+.lastmidlle{
+	float: right;
+	background-color: green;
+	height: 100px;
+	width: 260px;
+}
+.last{
+	float: right;
+	
+height: 100px;
+width: 30px;
+}
+.mediumbox2{
+	float: right;
+	width: 30px;
+	height: 40px;
+	background-color: yellow;
+	
+}
+#divider3{
+	float: right;
+background-color: black;
+    height: 10px;
+    width: 40px;
+}
+.mediumbox3{
+	float: right;
+	width: 28px;
+	height: 50px;
+	
